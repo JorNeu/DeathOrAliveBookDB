@@ -1,0 +1,13 @@
+
+L	java:S1064"+Replace this use of System.out by a logger.(Â ¦‡úÿÿÿÿ8¨Û×¾„2
+F	java:S106:"+Replace this use of System.out by a logger.(©«¸.8©Û×¾„2
+t
+java:S3776Q"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(§´…†úÿÿÿÿ8¬Û×¾„2
+a
+java:S1854}"?Remove this useless assignment to local variable "peopleAlive".(¢ö’Áøÿÿÿÿ8²Û×¾„2
+Y
+java:S1172{"<Remove these unused method parameters "result", "startYear".(ÈüÃÄ8³Û×¾„2
+R
+java:S1481}"0Remove this unused "peopleAlive" local variable.(¢ö’Áøÿÿÿÿ8µÛ×¾„2
+N
+java:S1144{"1Remove this unused private "addYearEntry" method.(ÈüÃÄ8·Û×¾„2
